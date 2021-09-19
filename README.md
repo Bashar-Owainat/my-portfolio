@@ -1,3 +1,6 @@
-# Modify this portfolio
+# MY Portfolio
 
-Make it your own! 
+Hey there! you can visit my portfolio using the link below:
+<br>
+
+https://bashar-portfolio.netlify.app/
